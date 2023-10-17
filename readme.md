@@ -7,7 +7,7 @@
 
 My name is Tiago and I am a full-stack web developer from de Florianópolis, Santa Catarina.
 
-### here are the technologies that I study and practice
+### Here are the technologies that I study and practice
 
 In the front-end
 
