@@ -4,8 +4,6 @@
 </a>
 
 
-### Here's some of the stuff I like to use
-
 
 My name is Tiago and I am a full-stack web developer from de Florianópolis, Santa Catarina.
 
